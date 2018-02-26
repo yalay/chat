@@ -1,0 +1,12 @@
+hash: 08d6240e037a8014e1f21cd74e877fb5137d6e2b0cfc59e6c4b8404070e3bcb6
+updated: 2018-02-24T18:30:36.6333012+08:00
+imports:
+- name: github.com/go-chi/chi
+  version: e83ac2304db3c50cf03d96a2fcd39009d458bc35
+- name: github.com/gorilla/websocket
+  version: ea4d1f681babbce9545c9c5f3d5194a789c89f5b
+- name: github.com/op/go-logging
+  version: b2cb9fa56473e98db8caba80237377e83fe44db5
+- name: github.com/unrolled/render
+  version: 65450fb6b2d3595beca39f969c411db8f8d5c806
+testImports: []
